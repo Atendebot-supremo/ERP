@@ -1,0 +1,40 @@
+Clientes Ativos e seus MRR:
+
+1. Zuper (Projeto) - R$ 0,00 - Ativo - 01/01/2026
+2. Zuper (Iconew) - R$ 0,00 - Ativo - 01/11/2025
+3. Zuper (Guardian) - R$ 0,00 - Ativo - 01/09/2025
+4. Pingo de Gente - R$ 997,00 - PAUSADO - 10/02/2026
+5. Vendacar - R$ 1.422,00 - Ativo - 22/12/2025
+6. Vita Suco - R$ 379,00 - Ativo - 13/06/2025
+7. Trevo - R$ 616,60 - Ativo - 07/11/2025
+8. Sport IT - R$ 765,50 - Ativo - 22/07/2025
+9. SPH Comercio - R$ 806,90 - Ativo - 24/11/2025
+10. Spetacullo - R$ 497,00 - INATIVO - 12/09/2025
+11. Rizzo Park - R$ 497,00 - Ativo - 07/10/2025
+12. Realc - R$ 814,73 - Ativo - 08/12/2025
+13. Maxi Chip - R$ 497,00 - Ativo - 07/10/2025
+14. MATTOS E SANTOS - R$ 497,00 - Ativo - 24/11/2025
+15. Lamimir - R$ 497,00 - Ativo - 07/11/2025
+16. Intercultura - R$ 997,00 - Ativo - 10/11/2025
+17. Helen - Harmonização - R$ 497,00 - Ativo - 07/10/2025
+18. Felipe - R$ 497,00 - Ativo - 19/11/2025
+19. Escola Nutri academy - R$ 397,00 - Ativo - 09/12/2025
+20. Cuidar Saude - R$ 497,00 - Ativo - 12/09/2025
+21. Clipping Service - R$ 1.405,00 - Ativo - 18/09/2025
+22. Clínica Dra. Luciana - R$ 239,00 - Ativo - 11/03/2025
+23. Center Joias - R$ 603,90 - Ativo - 23/04/2025
+24. CENAP - R$ 497,00 - Ativo - 25/09/2025
+25. Cadeiras Design - R$ 355,80 - Ativo - 24/11/2025
+26. Brisa Barra Hotel - R$ 1.114,00 - Ativo - 26/12/2025
+
+PROBLEMA IDENTIFICADO:
+- Pingo de Gente está PAUSADO mas tem MRR R$ 997,00
+- Spetacullo está INATIVO mas tem MRR R$ 497,00
+- Zuper (3 clientes) têm MRR R$ 0,00 cada
+
+Se somar apenas clientes ATIVOS (excluindo PAUSADO e INATIVO):
+R$ 0 + R$ 0 + R$ 0 + R$ 1.422 + R$ 379 + R$ 616,60 + R$ 765,50 + R$ 806,90 + R$ 497 + R$ 814,73 + R$ 497 + R$ 497 + R$ 997 + R$ 497 + R$ 497 + R$ 1.405 + R$ 239 + R$ 603,90 + R$ 397 + R$ 497 + R$ 355,80 + R$ 1.114 = R$ 13.892,43
+
+Mas o dashboard mostra R$ 14.389,43 (diferença de R$ 497,00)
+
+Isso significa que está contando um cliente PAUSADO ou INATIVO como ATIVO!

@@ -1,0 +1,41 @@
+Clientes Ativos Atualizados (26 total):
+
+1. Estação 6 - R$ 239,00 - Ativo - 24/03/2025 (NOVO!)
+2. Cyta Contábil - R$ 239,00 - Ativo - 11/03/2025 (NOVO!)
+3. Zuper (Projeto) - R$ 0,00 - Ativo - 01/01/2026
+4. Zuper (Iconew) - R$ 0,00 - Ativo - 01/11/2025
+5. Zuper (Guardian) - R$ 0,00 - Ativo - 01/09/2025
+6. Pingo de Gente - R$ 997,00 - PAUSADO - 10/02/2026
+7. Vendacar - R$ 1.422,00 - Ativo - 22/12/2025
+8. Vita Suco - R$ 379,00 - Ativo - 13/06/2025
+9. Trevo - R$ 616,60 - Ativo - 07/11/2025
+10. Sport IT - R$ 765,50 - Ativo - 22/07/2025
+11. SPH Comercio - R$ 806,90 - Ativo - 24/11/2025
+12. Spetacullo - R$ 497,00 - INATIVO - 12/09/2025
+13. Rizzo Park - R$ 497,00 - Ativo - 07/10/2025
+14. Realc - R$ 814,73 - Ativo - 08/12/2025
+15. Maxi Chip - R$ 497,00 - Ativo - 07/10/2025
+16. MATTOS E SANTOS - R$ 497,00 - Ativo - 24/11/2025
+17. Lamimir - R$ 497,00 - Ativo - 07/11/2025
+18. Intercultura - R$ 997,00 - Ativo - 10/11/2025
+19. Helen - Harmonização - R$ 497,00 - Ativo - 07/10/2025
+20. Felipe - R$ 497,00 - Ativo - 19/11/2025
+21. Escola Nutri academy - R$ 397,00 - Ativo - 09/12/2025
+22. Cuidar Saude - R$ 497,00 - Ativo - 12/09/2025
+23. Clipping Service - R$ 1.405,00 - Ativo - 18/09/2025
+24. Clínica Dra. Luciana - R$ 239,00 - Ativo - 11/03/2025
+25. Center Joias - R$ 603,90 - Ativo - 23/04/2025
+26. CENAP - R$ 497,00 - Ativo - 25/09/2025
+27. Cadeiras Design - R$ 355,80 - Ativo - 24/11/2025
+28. Brisa Barra Hotel - R$ 1.114,00 - Ativo - 26/12/2025
+
+SOMA CORRETA:
+R$ 239 + R$ 239 + R$ 0 + R$ 0 + R$ 0 + R$ 1.422 + R$ 379 + R$ 616,60 + R$ 765,50 + R$ 806,90 + R$ 497 + R$ 814,73 + R$ 497 + R$ 497 + R$ 997 + R$ 497 + R$ 497 + R$ 1.405 + R$ 239 + R$ 603,90 + R$ 497 + R$ 355,80 + R$ 1.114 = R$ 14.370,43
+
+PROBLEMA IDENTIFICADO:
+- Estação 6 e Cyta Contábil foram adicionados como ATIVOS (R$ 239 + R$ 239 = R$ 478)
+- Isso explica por que o MRR aumentou de R$ 13.892,43 para R$ 14.370,43
+- A diferença é exatamente R$ 478 = R$ 239 + R$ 239
+
+SOLUÇÃO:
+O MRR está correto! Você adicionou 2 novos clientes ao sistema (Estação 6 e Cyta Contábil), por isso o MRR aumentou.

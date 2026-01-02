@@ -1,0 +1,1 @@
+ALTER TABLE `expenses` MODIFY COLUMN `expenseDate` timestamp;
